@@ -1,0 +1,2 @@
+This is a new added message which should have wiped existing content.
+This is a new added message which should have been added to the existing content.
